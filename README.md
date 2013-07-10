@@ -1,4 +1,10 @@
 brain-power
 ===========
 
-nia brain interface ANN
+ANN for the NIA EEG Reader
+
+Dependencies:
+
+numpy
+pybrain
+pyusb
